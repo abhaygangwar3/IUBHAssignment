@@ -1,4 +1,0 @@
-Python is a great language.
-Sure!
-Java is a great language.
-Nope!
